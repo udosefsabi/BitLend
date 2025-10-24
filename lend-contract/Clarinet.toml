@@ -12,6 +12,10 @@ depends_on = []
 path = "contracts/sbtc-collateral.clar"
 depends_on = []
 
+[contracts.time-bound-access]
+path = "contracts/time-bound-access.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
