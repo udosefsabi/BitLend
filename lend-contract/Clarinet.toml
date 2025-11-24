@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/bitlend-core.clar"
 depends_on = []
 
+[contracts.dao-governance]
+path = "contracts/dao-governance.clar"
+depends_on = []
+
 [contracts.sbtc-collateral]
 path = "contracts/sbtc-collateral.clar"
 depends_on = []
